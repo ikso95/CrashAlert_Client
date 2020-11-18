@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">CrashAlert Client</string>
+    <string name="email">Email</string>
+    <string name="sign_up">Sign up</string>
+    <string name="password">Password</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="signUpError">Email already in use</string>
+    <string name="email_error">Invalid email</string>
+    <string name="password_error">Invalid password</string>
+    <string name="password_repeated_error">Passwords do not match</string>
+    <string name="create_new_account">Don\'t have an account yet? Sign up</string>
+    <string name="password_requirements">"Password must contain at least: 6 characters, one uppercase letter, one lowercase letter, one number, one special character (!?@#$%^&amp;+=)"</string>
+    <string name="log_in">Login</string>
+    <string name="sign_in_error">Upsss, sorry. Email or password is incorrect</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="reset_password">We sent you an email with a link to reset your password!</string>
+    <string name="title_activity_map">Map</string>
+    <string name="cancel">Cancel</string>
+    <string name="permission_dialog_message">For you to be able to use the application, you must grant permission to use the phone\'s location.</string>
+    <string name="permission_dialog_title">Permission needed</string>
+    <string name="ok">OK</string>
+    <string name="success_data_sent">Thank you! The ticket has been added.</string>
+    <string name="success_title">Success!</string>
+    <string name="settings">Settings</string>
+    <string name="log_out">Log out</string>
+    <string name="user_email">User email</string>
+    <string name="user_id">User ID</string>
+    <string name="user_points">Points</string>
+    <string name="change_email">Change email</string>
+    <string name="change_password">Change password</string>
+    <string name="reset_email">We sent you an email with a link to change your email!</string>
+    <string name="dialog_change_email_title">Email change</string>
+    <string name="dialog_chane_email_message">Are you sure you want to change the current email?</string>
+    <string name="dialog_change_password_title">Password change</string>
+    <string name="dialog_chane_password_message">Are you sure you want to change the current password?</string>
+    <string name="dialog_no_GPS_title">GPS is off!</string>
+    <string name="dialog_no_GPS_message">For the application to work properly, GPS must be turned on. Do you want to redirected You to the settings?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirm">Confirm</string>
+    <string name="search_range">"Search range: "</string>
+    <string name="save">Save</string>
+</resources>
